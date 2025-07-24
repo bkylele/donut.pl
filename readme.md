@@ -1,0 +1,35 @@
+# Donut in Prolog
+
+A rotating ASCII torus rendered entirely in **SWI-Prolog**, inspired by [Andy Sloane's original donut](https://www.a1k0n.net/2011/07/20/donut-math.html).  
+Done purely for fun to learn and play with logic programming.
+
+---
+
+## Demo
+
+<div>
+    <img src="./demo.mp4" height="30px">
+</div>
+
+---
+
+## Requirements
+
+- **SWI-Prolog** (tested on version 9.x)
+  - You can install it via your package manager:
+    - **Ubuntu/Debian**: `sudo apt install swi-prolog`
+    - **Mac (Homebrew)**: `brew install swi-prolog`
+    - **Windows**: [Download installer](https://www.swi-prolog.org/Download.html)
+
+---
+
+## How to Run
+
+Clone this repository and open the Prolog file in SWI-Prolog:
+
+```bash
+git clone https://github.com/bkylele/donut.pl.git
+cd donut.pl
+swipl -g main donut.pl
+```
+
