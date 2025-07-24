@@ -16,10 +16,7 @@ Done purely for fun to learn and play with logic programming.
 ## Requirements
 
 - **SWI-Prolog** (tested on version 9.x)
-  - You can install it via your package manager:
-    - **Ubuntu/Debian**: `sudo apt install swi-prolog`
-    - **Mac (Homebrew)**: `brew install swi-prolog`
-    - **Windows**: [Download installer](https://www.swi-prolog.org/Download.html)
+  - Install via your favorite package manager, or from the [Offical Downloads](https://www.swi-prolog.org/Download.html)
 
 ---
 
