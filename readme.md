@@ -7,9 +7,7 @@ Done purely for fun to learn and play with logic programming.
 
 ## Demo
 
-<div>
-    <img src="./demo.mp4" height="30px">
-</div>
+[See it in action](https://raw.githubusercontent.com/bkylele/donut.pl/refs/heads/master/demo.mp4)
 
 ---
 
